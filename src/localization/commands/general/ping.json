@@ -1,0 +1,22 @@
+{
+	"cmdName": {
+		"pt-BR": "ping",
+		"en-US": "ping"
+	},
+	"cmdDesc": {
+		"pt-BR": "Exibe o ping do bot",
+		"en-US": "Shows the bot's ping"
+	},
+	"title": {
+		"pt-BR": "Pong!",
+		"en-US": "Pong!"
+	},
+	"responseTime": {
+		"pt-BR": "Tempo de resposta: {time}ms",
+		"en-US": "Response time: {time}ms"
+	},
+	"discordAPI": {
+		"pt-BR": "Discord API: {time}ms",
+		"en-US": "Discord API: {time}ms"
+	}
+}

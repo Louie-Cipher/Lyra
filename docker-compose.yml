@@ -1,0 +1,20 @@
+version: '3'
+networks:
+    lyra-network:
+        name: lyra-network
+services:
+    postgres:
+        container_name: postgres
+        image: postgres
+        ports:
+            - 5432:5432
+        env_file:
+            - .env
+    lyra:
+        container_name: lyra
+        build: .
+        image: lyra
+        env_file:
+            - .env
+        depends_on:
+            - postgres

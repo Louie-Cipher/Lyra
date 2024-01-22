@@ -1,0 +1,54 @@
+{
+	"cmdName": {
+		"pt-BR": "bot-info",
+		"en-US": "bot-info"
+	},
+	"cmdDesc": {
+		"pt-BR": "Exibe informações sobre a Lyra",
+		"en-US": "Shows information about Lyra"
+	},
+	"title": {
+		"pt-BR": "Status da Lyra",
+		"en-US": "Lyra's status"
+	},
+	"footer": {
+		"pt-BR": "Caso queira adicionar a Lyra em seu servidor,\nClique no botão abaixo",
+		"en-US": "If you want to add Lyra to your server,\nClick on the button below"
+	},
+	"onlineSince": {
+		"pt-BR": "Online há",
+		"en-US": "Online since"
+	},
+	"servers": {
+		"pt-BR": "Servidores",
+		"en-US": "Servers"
+	},
+	"server": {
+		"pt-BR": "Servidor",
+		"en-US": "Server"
+	},
+	"playingOn": {
+		"pt-BR": "Reproduzindo música em",
+		"en-US": "Playing music in"
+	},
+	"ping": {
+		"pt-BR": "Ping",
+		"en-US": "Ping"
+	},
+	"nodeVersion": {
+		"pt-BR": "Versão do Node",
+		"en-US": "Node version"
+	},
+	"discordjsVersion": {
+		"pt-BR": "Versão do Discord.js",
+		"en-US": "Discord.js version"
+	},
+	"invite": {
+		"pt-BR": "Adicionar a Lyra em seu servidor",
+		"en-US": "Add Lyra to your server"
+	},
+	"sourceCode": {
+		"pt-BR": "Código fonte no GitHub",
+		"en-US": "Source code on GitHub"
+	}
+}

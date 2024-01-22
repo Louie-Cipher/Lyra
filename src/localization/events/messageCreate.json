@@ -1,0 +1,19 @@
+{
+	"dice": {
+		"Dice": {
+			"pt-BR": "Dado",
+			"en-US": "Dice",
+			"es-ES": "Dado"
+		},
+		"max": {
+			"pt-BR": "Máximo",
+			"en-US": "Max",
+			"es-ES": "Máximo"
+		},
+		"total": {
+			"pt-BR": "Total",
+			"en-US": "Total",
+			"es-ES": "Total"
+		}
+	}
+}

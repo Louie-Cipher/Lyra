@@ -1,0 +1,26 @@
+{
+	"finish": {
+		"title": {
+			"pt-BR": "Fim da lista de reprodução",
+			"en-US": "End of queue"
+		},
+		"description": {
+			"pt-BR": "Se nenhuma nova música for adicionada em **{time} segundos**, eu irei me desconectar",
+			"en-US": "If no new song is added in **{time} seconds**, I will disconnect"
+		},
+		"footer": {
+			"pt-BR": "Dica: Você pode ativar o AutoPlay, que adiciona automaticamente novas músicas com base na anterior",
+			"en-US": "Tip: You can enable AutoPlay, which automatically adds new songs based on the previous one"
+		}
+	},
+	"empty": {
+		"title": {
+			"pt-BR": "Lista de reprodução vazia",
+			"en-US": "Empty queue"
+		},
+		"description": {
+			"pt-BR": "Não há músicas na lista de reprodução",
+			"en-US": "There are no songs in the queue"
+		}
+	}
+}

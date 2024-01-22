@@ -1,0 +1,42 @@
+{
+	"cmdName": {
+		"pt-BR": "seek",
+		"en-US": "seek"
+	},
+	"cmdDesc": {
+		"pt-BR": "Pula para um tempo específico da música",
+		"en-US": "Seek to a specific song time"
+	},
+	"cmdOption": {
+		"name": {
+			"pt-BR": "tempo",
+			"en-US": "time"
+		},
+		"desc": {
+			"pt-BR": "em s, m ou h",
+			"en-US": "in s, m or h"
+		}
+	},
+	"noQueue": {
+		"title": {
+			"pt-BR": "Não há nada tocando no momento",
+			"en-US": "Nothing is playing at the moment"
+		},
+		"desc": {
+			"pt-BR": "Adicione uma música ao player, ou informe o nome da música",
+			"en-US": "Add a song to the player, or inform the song name"
+		}
+	},
+	"noPermission": {
+		"pt-BR": "Para utilizar este comando, você precisa ter a permissão `mover membros`, um cargo de DJ, ou estar sozinho no canal de voz",
+		"en-US": "To use this command, you need to have the `move members` permission, a DJ role, or be alone in the voice channel"
+	},
+	"invalidTime": {
+		"pt-BR": "Tempo inválido informado",
+		"en-US": "Invalid time informed"
+	},
+	"success": {
+		"pt-BR": "Tempo definido para **{time}**",
+		"en-US": "Time set to **{time}**"
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"cmdName": {
+		"pt-BR": "play",
+		"en-US": "play"
+	},
+	"cmdDesc": {
+		"pt-BR": "Toca uma música",
+		"en-US": "Play a song"
+	},
+	"cmdOption": {
+		"name": {
+			"pt-BR": "música",
+			"en-US": "song"
+		},
+		"desc": {
+			"pt-BR": "URL ou nome da música",
+			"en-US": "URL or song name"
+		}
+	},
+	"noChannel": {
+		"pt-BR": "Você precisa estar em um canal de voz para usar esse comando",
+		"en-US": "You need to be in a voice channel to use this command"
+	},
+	"noJoinable": {
+		"pt-BR": "Eu não tenho permissão para entrar no canal de voz",
+		"en-US": "I don't have permission to join the voice channel"
+	},
+	"notSameChannel": {
+		"pt-BR": "Você precisa estar no mesmo canal de voz que eu para usar esse comando",
+		"en-US": "You need to be in the same voice channel as me to use this command"
+	},
+	"success": {
+		"pt-BR": "Tocando música",
+		"en-US": "Playing song"
+	},
+	"error": {
+		"pt-BR": "Ocorreu um erro ao tocar a música",
+		"en-US": "An error occurred while playing the song"
+	}
+}

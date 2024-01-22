@@ -1,0 +1,27 @@
+{
+	"cmdNotFound": {
+		"pt-BR": "Comando não encontrado",
+		"en-US": "Command not found",
+		"es-ES": "Comando no encontrado"
+	},
+	"noPermissions": {
+		"pt-BR": "Você é fraco. Lhe falta permissão para executar esse comando",
+		"en-US": "You are weak. You don't have permission to execute this command",
+		"es-ES": "No tienes permiso para ejecutar este comando"
+	},
+	"roleAdded": {
+		"pt-BR": "Cargo {role} adicionado com sucesso",
+		"en-US": "Role {role} added successfully",
+		"es-ES": "Rol {role} añadido con éxito"
+	},
+	"roleRemoved": {
+		"pt-BR": "Cargo {role} removido com sucesso",
+		"en-US": "Role {role} removed successfully",
+		"es-ES": "Rol {role} eliminado con éxito"
+	},
+	"maxRoles": {
+		"pt-BR": "Você já possui o número máximo de cargos dessa mensagem",
+		"en-US": "You already have the maximum number of roles in this message",
+		"es-ES": "Ya tienes el número máximo de roles en esta mensaje"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"title": {
+		"pt-BR": "Filtro",
+		"en-US": "Filter"
+	},
+	"description": {
+		"pt-BR": "Filtros atuais:",
+		"en-US": "Current filters:"
+	},
+	"noFilters": {
+		"pt-BR": "Nenhum filtro",
+		"en-US": "No filters"
+	}
+}

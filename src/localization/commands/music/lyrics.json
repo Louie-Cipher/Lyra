@@ -1,0 +1,44 @@
+{
+	"cmdName": {
+		"pt-BR": "lyrics",
+		"en-US": "lyrics"
+	},
+	"cmdDesc": {
+		"pt-BR": "Mostra a letra da música",
+		"en-US": "Shows the song lyrics"
+	},
+	"cmdOption": {
+		"name": {
+			"pt-BR": "musica",
+			"en-US": "song"
+		},
+		"desc": {
+			"pt-BR": "nome da música",
+			"en-US": "song name"
+		}
+	},
+	"noQueue": {
+		"title": {
+			"pt-BR": "Não há nada tocando no momento",
+			"en-US": "Nothing is playing at the moment"
+		},
+		"desc": {
+			"pt-BR": "Adicione uma música ao player, ou informe o nome da música",
+			"en-US": "Add a song to the player, or inform the song name"
+		}
+	},
+	"noLyrics": {
+		"pt-BR": "Nenhum resultado para essa música",
+		"en-US": "No results for this song"
+	},
+	"multipleResults": {
+		"title": {
+			"pt-BR": "Múltiplos resultados encontrados",
+			"en-US": "Multiple results found"
+		},
+		"desc": {
+			"pt-BR": "Selecione o número da música que deseja",
+			"en-US": "Select the number of the song you want"
+		}
+	}
+}

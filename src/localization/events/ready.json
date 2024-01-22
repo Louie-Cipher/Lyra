@@ -1,0 +1,12 @@
+{
+	"onlineSince": {
+		"pt-BR": "Online {time}",
+		"en-US": "Online {time}",
+		"es-ES": "Online {time}"
+	},
+	"memberCount": {
+		"pt-BR": "Já somos {count} membros no servidor",
+		"en-US": "We are {count} members in the server",
+		"es-ES": "Ya somos {count} miembros en el servidor"
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"title": {
+		"pt-BR": "Modo de repetição",
+		"en-US": "Repeat mode"
+	},
+	"description": {
+		"pt-BR": "Modo de repetição definido para: {repeatMode}",
+		"en-US": "Repeat mode set to: {repeatMode}"
+	},
+	"repeatModes": [
+		{
+			"pt-BR": "Desligado",
+			"en-US": "Off"
+		},
+		{
+			"pt-BR": "Música única",
+			"en-US": "One song"
+		},
+		{
+			"pt-BR": "Todas as músicas",
+			"en-US": "All songs"
+		}
+	]
+}

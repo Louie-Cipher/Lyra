@@ -1,0 +1,74 @@
+{
+	"skip": {
+		"pt-BR": "Pular",
+		"en-US": "Skip"
+	},
+	"pause": {
+		"pt-BR": "Pausar",
+		"en-US": "Pause"
+	},
+	"resume": {
+		"pt-BR": "Continuar",
+		"en-US": "Resume"
+	},
+	"volume": {
+		"pt-BR": "Volume",
+		"en-US": "Volume"
+	},
+	"filter": {
+		"pt-BR": "Filtro",
+		"en-US": "Filter"
+	},
+	"repeat": {
+		"pt-BR": "Repetir",
+		"en-US": "Repeat"
+	},
+	"previous": {
+		"pt-BR": "Voltar",
+		"en-US": "Previous"
+	},
+	"autoplay": {
+		"pt-BR": "Autoplay",
+		"en-US": "Autoplay"
+	},
+	"stop": {
+		"pt-BR": "Parar",
+		"en-US": "Stop"
+	},
+	"requestedBy": {
+		"pt-BR": "Adicionado por: {user}",
+		"en-US": "Requested by: {user}"
+	},
+	"addedByAutoplay": {
+		"pt-BR": "Adicionado pelo autoplay",
+		"en-US": "Added by autoplay"
+	},
+	"inChannel": {
+		"pt-BR": "No canal",
+		"en-US": "In the channel"
+	},
+	"nowPlaying": {
+		"pt-BR": "Tocando agora:",
+		"en-US": "Now playing:"
+	},
+	"upNext": {
+		"pt-BR": "A seguir",
+		"en-US": "Up next"
+	},
+	"live": {
+		"pt-BR": "AO VIVO",
+		"en-US": "LIVE"
+	},
+	"andMore": {
+		"pt-BR": "e mais",
+		"en-US": "and more"
+	},
+	"on": {
+		"pt-BR": "ON",
+		"en-US": "ON"
+	},
+	"off": {
+		"pt-BR": "OFF",
+		"en-US": "OFF"
+	}
+}

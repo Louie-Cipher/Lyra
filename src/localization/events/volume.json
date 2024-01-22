@@ -1,0 +1,10 @@
+{
+	"title": {
+		"pt-BR": "Volume",
+		"en-US": "Volume"
+	},
+	"description": {
+		"pt-BR": "Volume atual: {volume}",
+		"en-US": "Current volume: {volume}"
+	}
+}

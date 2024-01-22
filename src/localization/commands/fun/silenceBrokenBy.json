@@ -1,0 +1,44 @@
+{
+	"cmdName": {
+		"pt-BR": "silencio-quebrado-por",
+		"en-US": "silence-broken-by"
+	},
+	"cmdDesc": {
+		"pt-BR": "1h de silêncio ocasionalmente quebrado por um som aleatório",
+		"en-US": "1h of silence occasionally broken by a random sound"
+	},
+	"cmdOption": {
+		"song": {
+			"name": {
+				"pt-BR": "música",
+				"en-US": "song"
+			},
+			"desc": {
+				"pt-BR": "URL ou nome da música",
+				"en-US": "URL or song name"
+			}
+		},
+		"duration": {
+			"name": {
+				"pt-BR": "duração",
+				"en-US": "duration"
+			},
+			"desc": {
+				"pt-BR": "Duração do silêncio em minutos",
+				"en-US": "Silence duration in minutes"
+			}
+		}
+	},
+	"noChannel": {
+		"pt-BR": "Você precisa estar em um canal de voz para usar esse comando",
+		"en-US": "You need to be in a voice channel to use this command"
+	},
+	"noJoinable": {
+		"pt-BR": "Eu não tenho permissão para entrar no canal de voz",
+		"en-US": "I don't have permission to join the voice channel"
+	},
+	"noSong": {
+		"pt-BR": "Nenhum resultado encontrado para essa pesquisa",
+		"en-US": "No results found for this search"
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"cmdName": {
+		"pt-BR": "volume",
+		"en-US": "volume"
+	},
+	"cmdDesc": {
+		"pt-BR": "Define o volume padrão quando o player iniciar",
+		"en-US": "Sets the default volume when the player starts"
+	},
+	"cmdOption": {
+		"name": {
+			"pt-BR": "volume",
+			"en-US": "volume"
+		},
+		"desc": {
+			"pt-BR": "número entre 0 e 100",
+			"en-US": "number between 0 and 100"
+		}
+	},
+	"show": {
+		"pt-BR": "O volume padrão quando o player iniciar é **{volume}**",
+		"en-US": "The default volume when the player starts is **{volume}**"
+	},
+	"edit": {
+		"pt-BR": "O volume padrão quando o player iniciar foi alterado para **{volume}**",
+		"en-US": "The default volume when the player starts has been changed to **{volume}**"
+	}
+}

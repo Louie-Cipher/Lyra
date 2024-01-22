@@ -1,0 +1,14 @@
+{
+	"cmdName": {
+		"pt-BR": "config",
+		"en-US": "config"
+	},
+	"cmdDesc": {
+		"pt-BR": "Configurações do bot",
+		"en-US": "Bot settings"
+	},
+	"subCommandNotFound": {
+		"pt-BR": "Subcomando não encontrado",
+		"en-US": "Subcommand not found"
+	}
+}

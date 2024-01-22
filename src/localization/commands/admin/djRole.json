@@ -1,0 +1,44 @@
+{
+	"cmdName": {
+		"pt-BR": "cargos-dj",
+		"en-US": "dj-roles"
+	},
+	"cmdDesc": {
+		"pt-BR": "Define os cargos que podem controlar o player",
+		"en-US": "Define the roles that can control the player"
+	},
+	"cmdOption": {
+		"name": {
+			"pt-BR": "cargo",
+			"en-US": "role"
+		},
+		"desc": {
+			"pt-BR": "Cargo para adicionar/remover",
+			"en-US": "Role to add/remove"
+		}
+	},
+	"showRoles": {
+		"pt-BR": "Os cargos de DJ do servidor são: {roles}",
+		"en-US": "The server's DJ roles are: {roles}"
+	},
+	"noRoles": {
+		"pt-BR": "O servidor não tem nenhum cargo de DJ",
+		"en-US": "The server doesn't have any DJ roles"
+	},
+	"addRole": {
+		"pt-BR": "O cargo {role} foi adicionado aos cargos de DJ",
+		"en-US": "The role {role} was added to the DJ roles"
+	},
+	"removeRole": {
+		"pt-BR": "O cargo {role} foi removido dos cargos de DJ",
+		"en-US": "The role {role} was removed from the DJ roles"
+	},
+	"notDJRole": {
+		"pt-BR": "O cargo {role} não é um cargo de DJ",
+		"en-US": "The role {role} is not a DJ role"
+	},
+	"fullOfRoles": {
+		"pt-BR": "O servidor já tem o máximo de cargos de DJ",
+		"en-US": "The server already has the maximum number of DJ roles"
+	}
+}

@@ -1,0 +1,56 @@
+{
+	"cmdName": {
+		"pt-BR": "buscar",
+		"en-US": "search"
+	},
+	"cmdDesc": {
+		"pt-BR": "Busca por uma música",
+		"en-US": "Search for a song"
+	},
+	"cmdOptions": {
+		"song": {
+			"name": {
+				"pt-BR": "música",
+				"en-US": "song"
+			},
+			"desc": {
+				"pt-BR": "nome da música",
+				"en-US": "song name"
+			}
+		},
+		"results": {
+			"name": {
+				"pt-BR": "resultados",
+				"en-US": "results"
+			},
+			"desc": {
+				"pt-BR": "quantidade de resultados",
+				"en-US": "results quantity"
+			}
+		}
+	},
+	"noChannel": {
+		"pt-BR": "Você precisa estar em um canal de voz para usar esse comando",
+		"en-US": "You need to be in a voice channel to use this command"
+	},
+	"noJoinable": {
+		"pt-BR": "Eu não tenho permissão para entrar no canal de voz",
+		"en-US": "I don't have permission to join the voice channel"
+	},
+	"notSameChannel": {
+		"pt-BR": "Você precisa estar no mesmo canal de voz que eu para usar esse comando",
+		"en-US": "You need to be in the same voice channel as me to use this command"
+	},
+	"success": {
+		"pt-BR": "Tocando música",
+		"en-US": "Playing song"
+	},
+	"error": {
+		"pt-BR": "Ocorreu um erro ao tocar a música",
+		"en-US": "An error occurred while playing the song"
+	},
+	"noResults": {
+		"pt-BR": "Nenhum resultado encontrado",
+		"en-US": "No results found"
+	}
+}
